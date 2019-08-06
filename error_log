@@ -1,0 +1,73 @@
+[11-Jun-2019 21:37:24 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[12-Jun-2019 15:52:21 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:32:03 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:32:11 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:32:34 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:48:11 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:52:36 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:59:32 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:45:44 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:45:57 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:48:34 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:51:57 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:54:14 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:54:16 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:54:26 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:57:31 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:57:34 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:59:18 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 185
+[16-Jun-2019 14:13:38 America/Chicago] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING) in /home3/osocorp1/public_html/OSO/user_forgot_pass_api.php on line 25
+[16-Jun-2019 14:13:43 America/Chicago] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING) in /home3/osocorp1/public_html/OSO/user_forgot_pass_api.php on line 25
+[16-Jun-2019 14:13:57 America/Chicago] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING) in /home3/osocorp1/public_html/OSO/user_forgot_pass_api.php on line 25
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home3/osocorp1/public_html/home.php on line 16
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home3/osocorp1/public_html/home.php on line 16
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/osocorp1/public_html/home.php on line 16
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 20
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 20
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 27
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 27
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 33
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 33
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 40
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 40
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 47
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 47
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 54
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 54
+[14-Jul-2019 17:27:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home3/osocorp1/public_html/language/language.php on line 40
